@@ -15,14 +15,14 @@
 - 💡 Languages: Python, JavaScript  
 - 🌐 Web: HTML, CSS, JavaScript  
 - ⚙️ Tools: Git, GitHub, VS Code  
-- 📦 Basics of: React (if you know, else remove)
+- 📦 Basic : computer networks
 
 ---
 
 ## 📂 Projects
-- 🔹 **Project Name 1** – Short description of your project  
-- 🔹 **Project Name 2** – Short description  
-- 🔹 **Project Name 3** – Short description  
+- 🔹 **Project Name 1** – Reliable Ndt (website)
+- 🔹 **Project Name 2** – Bank account management using python
+  
 
 ---
 
@@ -35,14 +35,14 @@
 
 ## 📜 Certifications & Workshops
 - 🎓 Web Development Workshop by CEPTA  
-- 📜 Other certifications (add if any)
+- 📜 Other certifications (hackathon organised by dutt it solution)
 
 ---
 
 ## 📫 Connect with Me
-- 📧 Email: your-email@gmail.com  
-- 💼 LinkedIn: your-linkedin-link  
-- 💻 GitHub: https://github.com/your-username  
+- 📧 Email: officialtanwarankit@gmail.com 
+- 💼 LinkedIn: 
+- 💻 GitHub: https://github.com/your-Ankit Tanwar 
 
 ---
 
